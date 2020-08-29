@@ -1,0 +1,5 @@
+Durham
+Location 426700E 541500N, Lat 54.768 Lon -1.585, 102 metres amsl
+   yyyy  mm   tmax    tmin      af    rain     sun
+              degC    degC    days      mm   hours
+   1930   0    7.1     1.0      10    89.7    55.6

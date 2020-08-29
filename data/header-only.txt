@@ -1,0 +1,4 @@
+Bradford
+Location 414900E 435200N, Lat 53.813 Lon -1.772, 134 metres amsl
+   yyyy  mm   tmax    tmin      af    rain     sun
+              degC    degC    days      mm   hours
